@@ -1,7 +1,7 @@
 Scripts for CRISPR-linked read sequencing
 
-Technology described in publication xyz [include link]
-Alignment files are accessible at NCBI Short Read Archive(SRA) with id: SRP148930
+Technology described in 'https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz661/5539887'
+Fastq and alignment files are accessible at NCBI Short Read Archive(SRA) with id: SRP148930
 
 1. Optional barcode filtering before alignment ('filter_bcs_before_align.sh' and 'filter_bc_by_perc.py')
 filter_bcs_before_align.sh <percentile>:
